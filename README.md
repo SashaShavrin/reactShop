@@ -11,6 +11,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+# Visualization
+
+<img src="https://user-images.githubusercontent.com/97390534/218327121-03483984-9866-4122-ab77-67b9eec8896f.png" width=100% height=50%>
+
+<img src="https://user-images.githubusercontent.com/97390534/218327151-25ece296-73b0-429d-aedb-9167da933c92.png" width=100% height=50%>
+
 # Stack
 
    ![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232684-dee074e2-47e3-4f5b-b61d-44a991bc15fd.svg) &emsp;
