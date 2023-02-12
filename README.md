@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # Visualization
 
 <img src="https://user-images.githubusercontent.com/97390534/218327121-03483984-9866-4122-ab77-67b9eec8896f.png" width=100% height=50%>
-<img src="(https://user-images.githubusercontent.com/97390534/218327276-d12b812b-8f04-4a53-9ae4-3ee30561997d.png" width=100% height=50%>
+<img src="https://user-images.githubusercontent.com/97390534/218327276-d12b812b-8f04-4a53-9ae4-3ee30561997d.png" width=100% height=50%>
 
 # Stack
 
