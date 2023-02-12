@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  position: fixed;
+  top: 0;
+  max-width: 1920px;
+  width: 100%;
+  padding: 0 25px;
+  transition: 0.4s;
+}
+.header-line {
+  position: fixed;
+  width: 100vw;
+  margin-top: -70px;
+  opacity: 0.4;
+}
+.header2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  position: fixed;
+  top: 0px;
+  max-width: 1920px;
+  width: 100%;
+  padding: 0 25px;
+  backdrop-filter: blur(8px);
+  transition: transform 0.4s ease;
+  animation: myanimation 0.6s ease;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.575);
+  margin: 0 auto;
+}
+@keyframes myanimation {
+  0% {
+    background-color: transparent;
+ }
+  25% {
+    background-color: rgba(0, 0, 0, 0.13);
+ }
+  50% {
+    background-color: rgba(0, 0, 0, 0.308);
+ }
+  75% {
+    background-color: rgba(0, 0, 0, 0.432);
+ }
+  100% {
+    background-color: rgba(0, 0, 0, 0.575);
+ }
+}

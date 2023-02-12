@@ -1,0 +1,77 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Jacket',
+    description: 'Jacket with funnel collar and long sleeves. Welt pockets at hip and interior pocket. Ribbed elastic hem. Front zip hidden by a snap button flap.',
+    url: './img/jacket-one.jpg',
+    price: 1000,
+    prod: 'men',
+    // sizes: ['S','M', 'L', 'XL'],
+  },
+  {
+    id: 2,
+    name: 'Scarf',
+    description: 'Scarf with fringe trim.DIMENSIONS: 75 x 15 inches (190 x 38 cm)',
+    url: './img/scarf-one.jpg',
+    price: 320,
+    prod: 'men',
+  },
+  {
+    id: 3,
+    name: 'Boots',
+    url: './img/boot-one.jpg',
+    description: 'Chelsea boots. Smooth upper. Rubberized finish. Features side elastic goring, pull-tab at back for an easier fit. Rounded shape. Irregular designed welt. Chunky lug soles.',
+    price: 1300,
+    prod: 'men',
+  },
+
+  {
+    id: 4,
+    name: 'Blazer',
+    description: 'Blazer with a lapel collar and long sleeves. Front flap pockets. Double-breasted button fastening.',
+    url: './img/blazer-one.jpg',
+    price: 1000,
+    prod: 'women',
+  },
+  {
+    id: 5,
+    name: 'Top',
+    description: 'Long sleeve sweater with round neck and turn-up trims.',
+    url: './img/top-one.jpg',
+    price: 320,
+    prod: 'women',
+  },
+  {
+    id: 6,
+    name: 'Trousers',
+    url: './img/trousers-one.jpg',
+    description: 'Mid-waist trousers with an elasticated waistband. Featuring side pockets, rear welt pockets, patch pockets with tabs on the legs and adjustable hems with stopper.',
+    price: 1300,
+    prod: 'women',
+  },
+
+  {
+    id: 7,
+    name: 'Pillow',
+    description: 'Linen and cotton cushion cover. Featuring a plain design in beige colour with topstitching on the corners. Cushion filling not included.',
+    url: './img/pillow-one.jpg',
+    price: 1000,
+    prod: 'home',
+  },
+  {
+    id: 8,
+    name: 'Lamp',
+    description: 'Lamp with an aged ceramic base and linen lampshade.Light bulb not included.If the external cable or cord of the lamp gets damaged, it must only be replaced by a qualified technician in order to avoid any danger.',
+    url: './img/lamp-one.jpg',
+    price: 320,
+    prod: 'home',
+  },
+  {
+    id: 9,
+    name: 'Mirrors',
+    url: './img/mirror-one.jpg',
+    description: 'Small irregular-shaped mirror with a black frame. Features three anchor points for horizontal and vertical placement.We recommend attaching the mirror using the screws suitable for each wall and the hinges that you will find at the back of the mirror. Screws not included.',
+    price: 1300,
+    prod: 'home',
+  }
+];
